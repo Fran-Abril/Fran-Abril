@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Him I'm Fran,
 
-This is the place where I play with code and break things!
+I'm Founder of [🌊 Availa ](https://github.com/AvailaOSS). This is the place where I play with code and break things! 
 
 # 🚀 Principal Stack
 
@@ -41,6 +41,25 @@ _¿Have you designed something database? Maybe..._
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+
+
+## 🐱 My Github Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Fran-Abril&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fran-Abril&theme=dark&bg_color=000000#gh-dark-mode-only)](https://git.io/streak-stats)
+
+![Fran Abril GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Fran-Abril&count_private=true&show_icons=true&theme=vue-dark)
+
+[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=agube&theme=vue-dark)](https://github.com/AvailaOSS/agube)
+
+[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=base-exception&theme=vue-dark)](https://github.com/Fran-Abril/base-exception)
+[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=restponse&theme=vue-dark)](https://github.com/Fran-Abril/restponse)
+</div>
+
+<br>
 
 ## 🙋‍♂️ More about me!
 
@@ -100,27 +119,17 @@ _¿Have you designed something database? Maybe..._
 
 <br>
 
-## 🐱 My Github Stats
-
-_I have more activity on_ [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/fraabr) _and I use to work in private enterprise repositories_
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fran-Abril&theme=vue-dark)](https://git.io/streak-stats)
-
-![Fran Abril GitHub stats](https://github-readme-stats.vercel.app/api?username=Fran-Abril&count_private=true&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran-Abril&theme=vue-dark)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fran-Abril&repo=base-exception&theme=vue-dark)](https://github.com/Fran-Abril/base-exception)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fran-Abril&repo=restponse&theme=vue-dark)](https://github.com/Fran-Abril/restponse)
-</div>
-
-<br>
 
 ## Connect with me on
 
 <a href="https://www.linkedin.com/in/fran-abril-a8424419a/">
     <img src="https://img.shields.io/badge/Fran Abril-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
+<a href="https://github.com/Fran-Abril">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white">
+</a>
+<a href="https://gitlab.com/fraabr">
+    <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/ffrannabril@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white">
 
