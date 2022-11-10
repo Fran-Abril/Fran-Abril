@@ -6,15 +6,34 @@ I'm Founder of [🌊 Availa ](https://github.com/AvailaOSS). This is the place w
 
 I always search the best way to do tasks and I help to People to be more productive using Ágile Methodologies. I want to be a professional Scrum Master therefore I'm currently training for it in [Scrum org](https://www.scrum.org/resources/what-is-scrum).
 
-## 📟 Programming Languages
+<details>
+  <summary><b>📟 Programming Languages</b></summary>
 
 _I have no problem to work with any language but i work daily with this_
 
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-## 💻 Frontend Development
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+</details>
+
+<details>
+  <summary><b>🖥️ Backend Development</b></summary>
+
+_I worked with __Seedstack__, __Dropwizard__, and __Spring__ frameworks too but i love Python now :)_
+
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+
+- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) __it not should be here__
+
+</details>
+
+<details>
+  <summary><b>💻 Frontend Development</b></summary>
 
 _Do not limit to frontend, backend is cool too!_
 
@@ -24,17 +43,10 @@ _Do not limit to frontend, backend is cool too!_
 
 - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-## 🖥️ Backend Development
+</details>
 
-_I worked with __Seedstack__, __Dropwizard__, and __Spring__ frameworks too but i love Python now :)_
-
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-
-- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) __it not should be here__
-
-## 🔋 Database Development
+<details>
+  <summary><b>🔋 Database Development</b></summary>
 
 _¿Have you designed something database? Maybe..._
 
@@ -42,24 +54,23 @@ _¿Have you designed something database? Maybe..._
 
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
+</details>
 
 ## 🐱 My Github Stats
 
-<div align="center">
-
 ![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Fran-Abril&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fran-Abril&theme=dark&bg_color=000000#gh-dark-mode-only)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=base-exception&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/Fran-Abril/base-exception)
+[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=restponse&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/Fran-Abril/restponse)
+[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=agube&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/AvailaOSS/agube)
 
+<details>
+  <summary><b>➕ More GitHub Stats</b></summary>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fran-Abril&theme=dark&bg_color=000000#gh-dark-mode-only)](https://git.io/streak-stats)
 ![Fran Abril GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Fran-Abril&count_private=true&show_icons=true&theme=vue-dark)
 
-[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=agube&theme=vue-dark)](https://github.com/AvailaOSS/agube)
-
-[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=base-exception&theme=vue-dark)](https://github.com/Fran-Abril/base-exception)
-[![Readme Card](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=Fran-Abril&repo=restponse&theme=vue-dark)](https://github.com/Fran-Abril/restponse)
-</div>
-
-<br>
+</details>
 
 ## 🙋‍♂️ More about me!
 
@@ -89,7 +100,6 @@ _¿Have you designed something database? Maybe..._
 
 </details>
 
-
 <details>
   <summary><b>💤 I previously worked with...</b></summary>
 
@@ -117,9 +127,6 @@ _¿Have you designed something database? Maybe..._
 
 </details>
 
-<br>
-
-
 ## Connect with me on
 
 <a href="https://www.linkedin.com/in/fran-abril-a8424419a/">
@@ -134,8 +141,6 @@ _¿Have you designed something database? Maybe..._
 <img src="https://img.shields.io/badge/ffrannabril@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white">
 
 <!-- ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white) -->
-
-<br>
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
